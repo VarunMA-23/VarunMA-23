@@ -35,7 +35,7 @@
 
 I gravitate toward the intersection of **systems engineering, ML infrastructure, and applied AI**. While most students are writing CRUD apps, I'm designing probabilistic causal graphs and content moderation pipelines. I don't wait to learn — I build, break, and figure it out.
 
-- 🎓 **B.E. Computer Science** — CMR Institute of Technology, Bengaluru (2024–2028)
+- 🎓 **B.E. Computer Science** — CMR Institute of Technology, Bengaluru (2025–2029)
 - 🧠 Currently deep in **distributed systems design** and **LLM-powered infrastructure**
 - 🛠️ I document architecture before I write code — specs, trade-offs, decisions
 - 🔍 Seeking **software engineering internships** where I can contribute to real engineering problems
@@ -190,12 +190,7 @@ A hardware-software system that tracks wound healing using moisture, pH, and tem
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VarunMA-23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C86FF&icon_color=7C86FF&text_color=c9d1d9&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VarunMA-23&theme=tokyonight&hide_border=true&background=0d1117&stroke=7C86FF&ring=7C86FF&fire=ff6b6b&currStreakLabel=7C86FF" width="49%" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunMA-23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C86FF&text_color=c9d1d9&langs_count=8" width="40%" alt="Top Languages"/>
+![Snake animation](https://raw.githubusercontent.com/VarunMA-23/VarunMA-23/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
