@@ -5,7 +5,7 @@
 
 <!-- Typing Banner -->
 <a href="https://github.com/VarunMA-23">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C86FF&center=true&vCenter=true&repeat=true&width=700&lines=First-Year+CS+Student+%40+PESCE+Mandya;Distributed+Systems+%26+ML+Infrastructure;Building+production-grade+systems+%F0%9F%9A%80;Python+%7C+TypeScript+%7C+System+Design;Open+to+Internships+%26+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C86FF&center=true&vCenter=true&repeat=true&width=700&lines=First-Year+CS+Student+%40+CMRIT+Bangalore;Distributed+Systems+%26+ML+Infrastructure;Building+production-grade+systems+%F0%9F%9A%80;Python+%7C+TypeScript+%7C+System+Design;Open+to+Internships+%26+Opportunities" alt="Typing SVG" />
 </a>
 
 <br/>
