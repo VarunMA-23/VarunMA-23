@@ -35,7 +35,7 @@
 
 I gravitate toward the intersection of **systems engineering, ML infrastructure, and applied AI**. While most students are writing CRUD apps, I'm designing probabilistic causal graphs and content moderation pipelines. I don't wait to learn — I build, break, and figure it out.
 
-- 🎓 **B.E. Computer Science** — PESCE, Mandya (2024–2028)
+- 🎓 **B.E. Computer Science** — CMR Institute of Technology, Bengaluru (2024–2028)
 - 🧠 Currently deep in **distributed systems design** and **LLM-powered infrastructure**
 - 🛠️ I document architecture before I write code — specs, trade-offs, decisions
 - 🔍 Seeking **software engineering internships** where I can contribute to real engineering problems
