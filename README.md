@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img width="100%" src="./banner.jpg" alt="Varun Manjunatha Banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:161b22,70:1a1b27,100:00e5ff&height=220&section=header&text=VARUN%20MANJUNATHA&fontSize=42&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Autonomous%20Systems%20%7C%203x%20Hackathon%20Winner&descSize=18&descAlignY=62&fontColor=ffffff" alt="Banner"/>
 </div>
 
 <!-- DYNAMIC TYPING SVG -->
