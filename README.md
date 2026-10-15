@@ -202,12 +202,17 @@ const varun = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=VarunMA-23&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="Varun's GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=VarunMA-23&theme=tokyonight&hide_border=true" alt="Varun's GitHub Streak" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VarunMA-23&theme=tokyonight" alt="GitHub Profile Details" />
 </p>
 
 <p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunMA-23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VarunMA-23&theme=tokyonight" alt="Top Languages by Repo" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VarunMA-23&theme=tokyonight&utcOffset=5.5" alt="Commits Timezone UTC +5:30" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VarunMA-23&theme=tokyonight" alt="GitHub Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VarunMA-23&theme=tokyonight" alt="Top Languages by Commit" />
 </p>
 
 <br>
